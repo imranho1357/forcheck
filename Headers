@@ -4,7 +4,7 @@
     'cache-control': 'max-age=0',
     'priority': 'u=0, i',
     'referer': 'https://www.screener.in/dash/',
-    'sec-ch-ua': '"Chromium";v="148", "Google Chrome";v="148", "Not/A)Brand";v="99"',
+    'sec-ch-ua': '"Google Chrome";v="149", "Chromium";v="149", "Not)A;Brand";v="24"',
     'sec-ch-ua-mobile': '?0',
     'sec-ch-ua-platform': '"Windows"',
     'sec-fetch-dest': 'document',
@@ -12,6 +12,6 @@
     'sec-fetch-site': 'same-origin',
     'sec-fetch-user': '?1',
     'upgrade-insecure-requests': '1',
-    'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36',
-    # 'cookie': 'csrftoken=Wpu3cgaPoEH2XGaccTIahMJecKbn4JHu; sessionid=ims3rbsg5en1lj6uelm6n8w3atewfsvy',
+    'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36',
+    # 'cookie': 'csrftoken=iV6AQZ8nWXUjRVCxPRWC5kohY0VgM3YP; sessionid=r5cs2i35hqkqomlmweikxqz1fkk61r0b',
 }
